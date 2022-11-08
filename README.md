@@ -4,5 +4,5 @@
 
 Repositório criado para o Desafio de Projeto
 
-##### *Minhas anotações dos cursos pensamento computacional de Git/GitHub*
+##### *Minhas anotações dos cursos Pensamento Computacional e Git/GitHub*
 
