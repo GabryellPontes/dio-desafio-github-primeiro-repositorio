@@ -12,3 +12,8 @@
 - variaveis booleana true e false = ver se uma condição é verdadeiro ou falso;
 - condicionais : if () = se; 	if (!) = se não; 	else = se não;
   else if () {} = se não , se;
+- uso do is em variáveis booleana;
+- Alt + Seta pra cima ou baixo move a linha;
+- Alt + Shift + F = Formata;
+- Math.pow (,2) = potenciação;
+- function = função;
